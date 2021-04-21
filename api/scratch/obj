@@ -1,0 +1,1 @@
+{"nom":{"required":true,"minlength":3,"maxlength":55},"email":{"required":true,"lowercase":true,"unique":true,"match":{},"trim":true},"password":{"required":true,"minlength":6,"maxlength":1024}}
